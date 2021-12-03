@@ -1,1 +1,2 @@
 this is local remote file
+this is current remote file
